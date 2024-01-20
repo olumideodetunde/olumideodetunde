@@ -23,7 +23,7 @@ Short answer, I enjoy building impactful solutions with data.
 
 I am Olumide, a Vet who moved into the data after seeing how much data impact decisions.
 
-Over the last 3 years, I have gradually built data skills (and still building). I am now on an "application" spree, so feel free to check my ML_end_to_end_Project repo to see what I am up to!
+Over the last 3 years, I have gradually built data skills (and still building). I am now on an "application" spree, so feel free to check my [ML_end_to_end_Project](https://github.com/olumideodetunde/ML_EndtoEnd_Projects) repo to see what I am up to!
 
 My idea is to build data solutions to relatable challenges, and share the process and output. So follow me on [medium](https://medium.com/@olumideodetunde).
 
