@@ -21,14 +21,15 @@ Here are some ideas to get you started:
 
 Short answer, I enjoy building impactful solutions with data.
 
-I am Olumide, a Vet that moved into the data after seeing how much data impact decisions.
+I am Olumide, a Vet who moved into the data after seeing how much data impact decisions.
 
-Over the last 3 year, I have gradually built data skills. I am now on an "application" spree, so feel free to check my ML_end_to_end_Project repo to see what I am up to!
+Over the last 3 years, I have gradually built data skills (and still building). I am now on an "application" spree, so feel free to check my ML_end_to_end_Project repo to see what I am up to!
 
-My idea is to build data solutions to relatable challenges, then share the process and output. So follow me on [medium](https://medium.com/@olumideodetunde).
+My idea is to build data solutions to relatable challenges, and share the process and output. So follow me on [medium](https://medium.com/@olumideodetunde).
 
-I tell stories with data too, so follow me on [Tableau](https://public.tableau.com/app/profile/olumide.odetunde/vizzes) 
+I tell stories with data too, do follow on [Tableau](https://public.tableau.com/app/profile/olumide.odetunde/vizzes) 
 
 Feel free to suggest interesting challenges, you never know.
 
 Stick around and see you around.
+
