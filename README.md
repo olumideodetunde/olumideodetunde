@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <h2>Hi there! 👋</h2>
 </div>
 
-Short answer, I enjoy building impactful solutions with data.
+Short answer, I enjoy building impactful data solutions that add business value.
 
 I am Olumide, a Vet who moved into the data after seeing how much data impact decisions.
 
-Over the last 3 years, I have gradually built data skills (and still building). I am now on an "application" spree, so feel free to check my [ML_end_to_end_Project](https://github.com/olumideodetunde/ML_EndtoEnd_Projects) repo to see what I am up to!
+Over the last 3 years, I have built data skills (and still building) and now on an "application" spree, so feel free to check my [ML_end_to_end_Project](https://github.com/olumideodetunde/ML_EndtoEnd_Projects) repo to see what I am up to!
 
 My idea is to build data solutions to relatable challenges, and share the process and output. Do  follow me on [medium](https://medium.com/@olumideodetunde).
 
