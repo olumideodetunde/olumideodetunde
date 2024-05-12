@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 <h2>Hi there! 👋</h2>
 </div>
 
-I enjoy building impactful data solutions that add business value. I am Olumide, a Vet who moved into the data after seeing how much data impact decisions.
+I am Olumide and I transitioned into data after reducing the annual production cycle by 42 days as a production lead.
 
-Over the last few years, I have built data skills (and still building) and now on an "application" spree, so feel free to check my [ML_end_to_end_Project](https://github.com/olumideodetunde/ML_EndtoEnd_Projects) repo to see what I am up to!
+In the last 5 years, I have worked in the e-commerce, healthcare, design and built environment sectors delivering impactful solutions along the way.
 
-My idea is to build data solutions to relatable challenges and share the process and output. Do  follow me on [medium](https://medium.com/@olumideodetunde). I also tell stories with data too, do follow on [Tableau](https://public.tableau.com/app/profile/olumide.odetunde/vizzes).
+Currently, I lead and manage a project tasked with delivering three data solutions: enhancing street networks, predicting footfall estimates, and assessing design change implications to inform decision making.
 
-Please don't hesitate to suggest interesting challenges.
+In my free time, I support a community of talents transitioning into the data space, alongside developing personal projects that deeply interest me. 
 
 
