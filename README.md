@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<h1>Data Scientist & MLOps Engineer</h1>
+<h1>Data Scientist</h1>
 <h2>Hi there! 👋</h2>
 </div>
 
