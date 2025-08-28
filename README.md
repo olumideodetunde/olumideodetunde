@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 I am Olumide and I transitioned into data after reducing the annual production cycle by 42 days as a production lead.
 
-In the last 5 years, I have worked in the e-commerce, healthcare, design and built environment sectors delivering impactful solutions along the way.
+In the last 5 years, I have worked in the e-commerce, healthcare, design and built environment sectors, delivering impactful solutions along the way.
 
-Currently, I lead and manage a project tasked with delivering three data solutions: enhancing street networks, predicting footfall estimates, and assessing design change implications to inform decision making.
+Currently, I collaborate with underwriters to develop data solutions, enabling them to identify and write better risks in good time.
 
 In my free time, I support a community of talents transitioning into the data space, alongside developing personal projects that deeply interest me. 
 
