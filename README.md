@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <h2>Hi there! 👋</h2>
 </div>
 
-I am Olumide and I transitioned into data after reducing the annual production cycle by 42 days as a production lead.
+I transitioned into data after reducing the annual production cycle by 42 days as a production lead.
 
-In the last 5 years, I have worked in the e-commerce, healthcare, design and built environment sectors, delivering impactful solutions along the way.
+Over the last 5 years, I have worked in the e-commerce, healthcare, and built environment sectors, delivering impactful solutions along the way.
 
 Currently, I collaborate with underwriters to develop data solutions, enabling them to identify and write better risks in good time.
 
